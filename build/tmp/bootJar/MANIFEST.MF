@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Start-Class: com.eteration.bootcamp2k18.App
+Main-Class: org.springframework.boot.loader.JarLauncher
+
